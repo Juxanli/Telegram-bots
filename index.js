@@ -3,7 +3,7 @@ const request = require('request')
 const fs = require('fs')
 const _ = require('lodash')
 
-const TOKEN = '1152851566:AAE_oUb4pW-v44mSvhMCdSIjLwfdULEazDE'
+const TOKEN = 'YOU TOKEN'
 
 
 const bot = new TelegramBot(TOKEN, {
